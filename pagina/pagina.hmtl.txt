@@ -1,0 +1,9 @@
+<HTML>
+
+	<frameset rows="28%">
+<frame src="sds.html">
+	<frameset cols="15*">
+<frame src="1.html">
+<frame src="links.html" name="mainFrame">
+</frameset>
+</frameset>
